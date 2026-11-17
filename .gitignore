@@ -1,3 +1,9 @@
+# сборка и IDE
+build/
+cmake-build-*/
+.idea/
+.DS_Store
+
 # Prerequisites
 *.d
 
