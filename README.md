@@ -1,5 +1,9 @@
+
 # BakmanRD_LW3_ModPhysPro
 Практическая Работа №3 Моделирование Физических процессов Бакман Роман
+
+<img width="720" height="450" alt="demo" src="https://github.com/user-attachments/assets/42e37ebf-a4ac-41cb-a1cd-6a7d8f76ef2e" />
+
 
 2D rigid body: CCD и multi-rate. Упрощённый движок AABB без вращения с тремя режимами
 
